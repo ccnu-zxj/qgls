@@ -1,0 +1,11 @@
+Package: qgls
+Type: Package
+Title: Adaptive Quantile Generalized Least Squares
+Version: 0.1.0
+Author: Your Name <your.email@example.com>
+Maintainer: Your Name <your.email@example.com>
+Description: Reconstructs underlying mean and standard deviation from summary order statistics using an algebraically reduced precision operator.
+License: GPL-3
+Encoding: UTF-8
+Imports: stats
+RoxygenNote: 7.2.3
